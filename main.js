@@ -5,7 +5,7 @@ function main() {
 }
 
 function contentClick(contentElement) {
-  console.log("poo" + contentElement);
+
 
   makeImage(contentElement);
 
